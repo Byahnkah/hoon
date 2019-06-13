@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/DemoAsteroids/Scenes/DemoAsteroids-GameScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/DemoAsteroids/Scenes/DemoAsteroids-LobbyScene.unity
+  isLoaded: 1
+  isActive: 0
